@@ -1,5 +1,0 @@
-# Written by scripts/csp.mjs at build, from the inline scripts of the
-# page in this directory. Regenerated every build; do not edit.
-<IfModule mod_headers.c>
-  Header always set Content-Security-Policy "default-src 'self'; script-src 'self' https://www.googletagmanager.com 'sha256-OBTN3RiyCV4Bq7dFqZ5a2pAXjnCcCYeTJMO2I/LYKeo=' 'sha256-HonLmiqLJWRVkIggePGnbpz31S6ZpOizHkorlqiNJKg=' 'sha256-P3guukjClOnW4dpjpimp6SHtqZggsvNCa48D6aLos4s=' 'sha256-fKOGkNer9276To5j26DXLknL+mFq03XYwLLIlQD8ccY=' 'sha256-y9xN8n+qxMv5gppE0ncHhRVqeqFu4Pz5HnB6VUzWT9Q=' 'sha256-ASBv0wsDUAxjX0r+k4Ov7tHa2KOxYBjjgj+gxFvELZs=' 'sha256-R942fhS7rsZ5oD/M+dPznKLPe3UVlTFxYcQEoBKI0oY=' 'sha256-j/DJh3tOOqC3mvlAkpSW3QcbR98SsBBK+LOw+3i9+rw='; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://www.googletagmanager.com https://*.google-analytics.com; font-src 'self'; connect-src 'self' https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com; frame-src https://www.youtube-nocookie.com; frame-ancestors 'none'; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests"
-</IfModule>
